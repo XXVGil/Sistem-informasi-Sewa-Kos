@@ -13,8 +13,7 @@ npm-debug.log
 yarn-error.log
 
 # Build & hot reload
-/public/build
-/public/hot
+
 
 # Storage
 /public/storage
